@@ -1,1 +1,2 @@
-hello mister
+hello mister and mister, our project will basically just a printer except it can be used to write on documents that need you to fill out certain boxes and text places instead of just printing the whole paper without care of location.
+It will also make it look more handwritten by using actual pen ink or pencils and we will maybe implement an ai to write based on sample handwritting from the user. To trick teachers into thinking that you wrote it instead of a robot.
